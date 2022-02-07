@@ -68,13 +68,7 @@ def fake_news_detect(content):
   return(prediction)
 
 print(Y_test[0])
-
-def fake_news(content):
-  X_new = X_test[X]
   
-
-
-
 
 # Defining the site route
 @app.route('/')
